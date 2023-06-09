@@ -5,7 +5,7 @@ It's more like a proof of concept than a finished product.
 
 It uses:
 
-- Flask, Jinja2 and Bootstrap for the UI.
+- Flask, Jinja2 and Bootstrap 5 for the UI.
 - It uses OpenAI's API and SerpApi to get the data.
 - Guidance for making the prompts.
 
